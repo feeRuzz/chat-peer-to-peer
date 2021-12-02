@@ -21,7 +21,7 @@ public class JavaChatOnline {
         // TODO code application logic here
         
         Condivisa cond = new Condivisa();
-        THAscolta tha = new THAscolta(cond);
+        ThreadAscolta tha = new ThreadAscolta(cond);
         
         
         tha.start();

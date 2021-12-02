@@ -17,6 +17,8 @@ public final class gestioneMessaggio {
         messaggio = "";
     }
 
+    
+    //a;NOME_MITTENTE; 
     public static void controllaMessaggio(String m) {
         messaggio = m;
 
@@ -24,6 +26,10 @@ public final class gestioneMessaggio {
 
         if (split[0].equals("a")) {
 
+            String risposta = "y;PC1";
+            
+            
+            
         } else if (split[0].equals("y")) {
 
         } else if (split[0].equals("n")) {
