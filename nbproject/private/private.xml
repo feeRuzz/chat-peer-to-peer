@@ -3,12 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Startex/Desktop/scuola/Tec/5C/Lab/JavaChatOnline/src/javachatonline/peer.java</file>
-            <file>file:/C:/Users/Startex/Desktop/scuola/Tec/5C/Lab/JavaChatOnline/src/javachatonline/Condivisa.java</file>
-            <file>file:/C:/Users/Startex/Desktop/scuola/Tec/5C/Lab/JavaChatOnline/src/javachatonline/JavaChatOnline.java</file>
-            <file>file:/C:/Users/Startex/Desktop/scuola/Tec/5C/Lab/JavaChatOnline/src/javachatonline/connessione.java</file>
-            <file>file:/C:/Users/Startex/Desktop/scuola/Tec/5C/Lab/JavaChatOnline/src/javachatonline/gestioneMessaggio.java</file>
-            <file>file:/C:/Users/Startex/Desktop/scuola/Tec/5C/Lab/JavaChatOnline/src/javachatonline/ThreadAscolta.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/ModelloCliente.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/ThreadAscolta.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/Condivisa.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/InterfacciaCliente.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/gestioneMessaggio.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/connessione.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/THAscolta.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/Client.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/peer.java</file>
+            <file>file:/C:/Users/Startex/Documents/GitHub/chat-peer-to-peer/src/javachatonline/JavaChatOnline.java</file>
         </group>
     </open-files>
 </project-private>
